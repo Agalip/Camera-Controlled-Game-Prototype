@@ -19,3 +19,7 @@ harmful effects for growing children.
 This study researched how an alternative game project in which the character is controlled by the
 camera could potentially solve these problems. Then, using the Unity platform, a 3D game character
 model was designed that can be controlled in real time via a camera.
+
+![image](https://github.com/Agalip/Camera-Controlled-Game-Prototype/assets/61115719/5fac45e7-e46b-452f-83f4-f3c294f612ac)
+![image](https://github.com/Agalip/Camera-Controlled-Game-Prototype/assets/61115719/aa02fa63-0f86-4c19-b269-4877b46f75fb)
+![image](https://github.com/Agalip/Camera-Controlled-Game-Prototype/assets/61115719/978b8015-19a2-478f-a83b-47d45d835796)
